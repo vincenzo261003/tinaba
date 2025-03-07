@@ -1,0 +1,5 @@
+com\adesso\controller\BankingController.class
+com\adesso\tinaba\TinabaApplication.class
+com\adesso\security\ApiKeyInterceptor.class
+com\adesso\config\InterceptorConfig.class
+com\adesso\service\BankingService.class
